@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle 필사
+Kaggle 필사✒
